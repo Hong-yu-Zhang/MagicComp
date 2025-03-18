@@ -5,12 +5,12 @@
 
 ## Motivation
 <br>
-<img width="950" src="imgs/Motivation.pdf"/>
+<img width="950" src="imgs/Motivation.png"/>
 <br>
 
 ## Method Overview
 <br>
-<img width="950" src="imgs/Method_Overview.pdf"/>
+<img width="950" src="imgs/Method_Overview.png"/>
 <br>
 
 ## Citation
