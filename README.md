@@ -15,3 +15,14 @@
 
 ## Citation
 If you find **MagicComp** useful, please cite our paper:
+```
+@misc{zhang2025magiccomptrainingfreedualphaserefinement,
+      title={MagicComp: Training-free Dual-Phase Refinement for Compositional Video Generation}, 
+      author={Hongyu Zhang and Yufan Deng and Shenghai Yuan and Peng Jin and Zesen Cheng and Yian Zhao and Chang Liu and Jie Chen},
+      year={2025},
+      eprint={2503.14428},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.14428}, 
+}
+```
