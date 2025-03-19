@@ -1,5 +1,6 @@
 # MagicComp: Training-free Dual-Phase Refinement for Compositional Video Generation
-<a href='https://hong-yu-zhang.github.io/MagicComp-Page/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2412.04440'></a> 
+<a href='https://hong-yu-zhang.github.io/MagicComp-Page/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
+<a href='https://arxiv.org/abs/2412.04440'><img src='https://img.shields.io/badge/arXiv-2412.04440-b31b1b.svg'></a> 
 
 **Code will come soon.**
 
